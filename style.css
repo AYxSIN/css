@@ -1,0 +1,15 @@
+nav{display:flex}
+
+li{
+display: inline-flex;
+margin: 10px;
+font-size:20px; 
+
+ }
+ body{
+    background-color: rgb(255, 255, 255);
+    font-family: roboto;
+ }
+.w1{
+    text-align:center ;
+}
